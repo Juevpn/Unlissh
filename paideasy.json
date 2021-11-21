@@ -12,6 +12,11 @@
          "url": "https://raw.githubusercontent.com/JueHtet/paid/main/TrueMove-NoFree-002.ovpn"
       },
 
+{
+         "name": "TrueMove-003-VIP",
+         "url": "https://raw.githubusercontent.com/JueHtet/paid/main/TrueMove-NoFree-003.ovpn"
+      },
+
 
       
 {
@@ -25,6 +30,11 @@
       },
 
 {
+         "name": "Dtac-90DAYS-003-VIP",
+         "url": "https://raw.githubusercontent.com/JueHtet/paid/main/Dtac-90Days-003.ovpn"
+      },
+
+{
          "name": "Dtac-HWork-001-VIP",
          "url": "https://raw.githubusercontent.com/JueHtet/paid/main/Dtac-HappyWork-001.ovpn"
       },
@@ -32,11 +42,16 @@
 {
          "name": "Dtac-HWork-002-VIP",
          "url": "https://raw.githubusercontent.com/JueHtet/paid/main/Dtac-HappyWork-002.ovpn"
+      },
+
+{
+         "name": "Dtac-HWork-002-VIP",
+         "url": "https://raw.githubusercontent.com/JueHtet/paid/main/Dtac-HappyWork-003.ovpn"
       }
 
 
    ],
-"message":"21 November 2021\n\n•Version:1\n•40ဘတ်ကိုတစ်လ\n\n•VPS Servers ",
+"message":"21 November 2021\n\n•Version:2\n•40ဘတ်ကိုတစ်လ\n\n•Add VPS Servers 3",
    "title":"Paid VPN" ,
-   "version": 1
+   "version": 2
 }
