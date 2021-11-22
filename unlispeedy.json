@@ -41,6 +41,11 @@
          "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Speedy-004.ovpn"
       },
 
+{
+         "name": "SG-Speedy-005",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Speedy-005.ovpn"
+      },
+
 
 {
          "name": "IN-UNLI-001",
@@ -55,7 +60,7 @@
 
 
  ],
-"message":"TRUE & DTAC90Days\n•Version:4\n\n•Owner By: Tyler Alvarez ",
+"message":"TRUE & DTAC90Days\n•Version:5\n\n•Owner By: Tyler Alvarez ",
    "title":"🤍21 November 2021🤍" ,
-   "version": 4
+   "version": 5
 }
