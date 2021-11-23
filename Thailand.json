@@ -52,11 +52,32 @@
 {
          "name": "TH-Thailand-010",
          "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-010.ovpn"
+      },
+
+{
+         "name": "TH-Thailand-011",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-011.ovpn"
+      },
+
+{
+         "name": "TH-Thailand-012",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-012.ovpn"
+      },
+
+{
+         "name": "TH-Thailand-013",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-013.ovpn"
+      },
+
+{
+         "name": "TH-Thailand-014",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-014.ovpn"
       }
 
 
+
    ],
-"message":"23 November 2021\n\n•Version:2\n•40ဘတ်ကိုတစ်လ\n\n•Game အတွက်ရှယ်ပါ",
+"message":"23 November 2021\n\n•Version:3\n•40ဘတ်ကိုတစ်လ\n\n•Game အတွက်ရှယ်ပါ",
    "title":"Thailand Servers Only" ,
-   "version": 2
+   "version": 3
 }
