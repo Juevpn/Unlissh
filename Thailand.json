@@ -90,40 +90,92 @@
       },
 
 {
-         "name": "TH-Thailand-018",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-018.ovpn"
+         "name": "IN-India-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/India-001.ovpn"
       },
 
 {
-         "name": "TH-Thailand-019",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-019.ovpn"
+         "name": "IN-India-002",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/India-002.ovpn"
       },
 
 
 {
-         "name": "TH-Thailand-020",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-020.ovpn"
+         "name": "HK-HKong-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/HongKong-001.ovpn"
       },
 
 {
-         "name": "TH-Thailand-021",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-021.ovpn"
+         "name": "HK-HKong-002",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/HongKong-002.ovpn"
       },
 
 {
-         "name": "TH-Thailand-022",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-022.ovpn"
+         "name": "JP-Japan-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Japan-001.ovpn"
       },
 
 {
-         "name": "TH-Thailand-023",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-023.ovpn"
+         "name": "JP-Japan-002",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Japan-002.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-001.ovpn"
+      },
+
+
+{
+         "name": "SG-Sampang-002",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-002.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-003",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-003.ovpn"
+      },
+
+
+      
+{
+         "name": "SG-Sampang-004",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-004.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-005",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-005.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-006",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-006.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-007",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-007.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-008",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-008.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-009",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-009.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-010",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-010.ovpn"
       }
 
 
-
    ],
-"message":"26 November 2021\n\n•Version:5\n•40ဘတ်ကိုတစ်လ\n\n•Thailand 23 Servers",
+"message":"27 November 2021\n\n•Version:6\n•JueHtet\n\n•All New Servers",
    "title":"1ကနေ10ထိအသစ်ပါပြန်ပြင်ထားတယ်" ,
-   "version": 5
+   "version": 6
 }
