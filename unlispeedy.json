@@ -55,12 +55,53 @@
 {
          "name": "IN-Speedy-001",
          "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/IN-Speedy-001.ovpn"
+      },
+
+
+
+{
+         "name": "HK-Speedy-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/HK-Speedy-001.ovpn"
+      },
+
+
+{
+         "name": "PH-Speedy-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/PH-Speedy-001.ovpn"
+      },
+
+
+
+{
+         "name": "TH-Speedy-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/TH-Speedy-001.ovpn"
+      },
+
+{
+         "name": "ID-Speedy-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/ID-Speedy-001.ovpn"
+      },
+
+
+{
+         "name": "TH-UNLI-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/TH-UNLI-001.ovpn"
+      },
+
+{
+         "name": "ID-UNLI-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/ID-UNLI-001.ovpn"
+      },
+
+{
+         "name": "HK-UNLI-001",
+         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/HK-UNLI-001.ovpn"
       }
 
 
 
  ],
-"message":"TRUE & DTAC90Days\n•Version:5\n\n•Owner By: Tyler Alvarez ",
-   "title":"🤍21 November 2021🤍" ,
-   "version": 5
+"message":"TRUE & DTAC90Days\n•Version:1\n\n•Owner By: Tyler Alvarez ",
+   "title":"🤍30 November 2021🤍" ,
+   "version": 1
 }
