@@ -36,22 +36,22 @@
 
 {
          "name": "TH-Thailand-007",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-006.ovpn"
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-007.ovpn"
       },
 
 {
          "name": "TH-Thailand-008",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-006.ovpn"
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-008.ovpn"
       },
 
 {
          "name": "TH-Thailand-009",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-006.ovpn"
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-009.ovpn"
       },
 
 {
          "name": "TH-Thailand-010",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-006.ovpn"
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-010.ovpn"
       },
 
 {
@@ -79,15 +79,7 @@
          "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-015.ovpn"
       },
 
-{
-         "name": "TH-Thailand-016",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-016.ovpn"
-      },
 
-{
-         "name": "TH-Thailand-017",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-017.ovpn"
-      },
 
 {
          "name": "IN-India-001",
@@ -171,41 +163,11 @@
 {
          "name": "SG-Sampang-010",
          "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-010.ovpn"
-      },
-
-
-{
-         "name": "TH-Thailand-018",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-018.ovpn"
-      },
-
-{
-         "name": "TH-Thailand-019",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-019.ovpn"
-      },
-
-{
-         "name": "TH-Thailand-020",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-020.ovpn"
-      },
-
-{
-         "name": "TH-Thailand-021",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-021.ovpn"
-      },
-
-{
-         "name": "TH-Thailand-022",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-022.ovpn"
-      },
-
-{
-         "name": "TH-Thailand-023",
-         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-023.ovpn"
       }
 
+
    ],
-"message":"1 December 2021\n\n•Version:8\n•JueHtet\n\n•All New Servers",
-   "title":"Fixed Thailand and Singapore Servers" ,
-   "version": 8
+"message":"6 December 2021\n\n•Version:9\n•JueHtet\n\n•All New Servers",
+   "title":"TH,JP,HK,IN Fixed All" ,
+   "version": 9
 }
