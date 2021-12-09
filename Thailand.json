@@ -163,11 +163,39 @@
 {
          "name": "SG-Sampang-010",
          "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Singapore-010.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-011",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-016.ovpn"
+      },
+
+
+{
+         "name": "SG-Sampang-012",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-017.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-013",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-018.ovpn"
+      },
+
+
+      
+{
+         "name": "SG-Sampang-014",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-019.ovpn"
+      },
+
+{
+         "name": "SG-Sampang-015",
+         "url": "https://raw.githubusercontent.com/JueHtet/Thailand/main/Thailand-020.ovpn"
       }
 
 
    ],
-"message":"6 December 2021\n\n•Version:9\n•JueHtet\n\n•All New Servers",
-   "title":"TH,JP,HK,IN Fixed All" ,
-   "version": 9
+"message":"9 December 2021\n\n•Version:10\n•JueHtet\n\n•All New Servers",
+   "title":"Add More Ssmapng and Fixed TH Servers" ,
+   "version": 10
 }
