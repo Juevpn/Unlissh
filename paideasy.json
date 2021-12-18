@@ -17,6 +17,15 @@
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-003.ovpn"
       },
 
+{
+         "name": "TrueMove-004-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-004.ovpn"
+      },
+
+{
+         "name": "TrueMove-005-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-005.ovpn"
+      },
 
       
 {
@@ -35,6 +44,16 @@
       },
 
 {
+         "name": "Dtac-90DAYS-004-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-004.ovpn"
+      },
+
+{
+         "name": "Dtac-90DAYS-005-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-005.ovpn"
+      },
+
+{
          "name": "Dtac-HWork-001-VIP",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-001.ovpn"
       },
@@ -49,9 +68,19 @@
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-003.ovpn"
       }
 
+{
+         "name": "Dtac-HWork-004-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-004.ovpn"
+      },
+
+{
+         "name": "Dtac-HWork-005-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-005.ovpn"
+      }
+
 
    ],
-"message":"18 December 2021\n\n•Version:5\n•40ဘတ်ကိုတစ်လ\n\n•VIP 3ပြန်ပြင်လို့ချိတ်မရတာတောင်းပန်ပါတယ်",
-   "title":"Paid VPN\n•IPအကုန်အသစ်ပါ" ,
-   "version": 5
+"message":"18 December 2021\n\n•Version:6\n•40ဘတ်ကိုတစ်လ\n\n•VIP 3ပြန်ပြင်လို့ချိတ်မရတာတောင်းပန်ပါတယ်",
+   "title":"Paid VPN\n•VIP ဆာဗာထပ်တိုး" ,
+   "version": 6
 }
