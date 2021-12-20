@@ -151,6 +151,30 @@
          "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-K-003.ovpn"
       },
 
+{
+         "name": "TH-001",
+         "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-T-001.ovpn"
+      },
+
+
+{
+         "name": "TH-002",
+         "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-T-002.ovpn"
+      },
+{
+         "name": "TH-003",
+         "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-T-003.ovpn"
+      },
+
+{
+         "name": "TH-004",
+         "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-T-004.ovpn"
+      },
+
+{
+         "name": "TH-005",
+         "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-T-005.ovpn"
+      },
 
 
 {
@@ -166,7 +190,7 @@
 
 
  ],
-"message":"TRUE & DTAC90Days\n•Version:5\n•🎄Christmas လက်ဆောင်🎄\n•Update လုပ်ပေးပါ\n\n•Owner By: JueHtet ",
-   "title":"🎄20 December 2021🎄" ,
-   "version": 5
+"message":"TRUE & DTAC90Days\n•Configs Version:6\n•🎄Christmas လက်ဆောင်🎄\n•Update လုပ်ပေးပါ\n\n•Owner By: JueHtet ",
+   "title":"🎄20 December 2021🎄\n•Add TH Servers" ,
+   "version": 6
 }
