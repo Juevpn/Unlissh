@@ -2,140 +2,85 @@
    "files": [    
 
 {
-         "name": "SG-UNLI-001",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-UNLI-001.ovpn"
-      },
-
-
-{
-         "name": "SG-UNLI-002",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-UNLI-002.ovpn"
-      },
-{
-         "name": "SG-UNLI-003",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-UNLI-003.ovpn"
-      },
-
-{
-         "name": "SG-UNLI-004",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-UNLI-004.ovpn"
-      },
-
-{
-         "name": "SG-Speedy-001",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Speedy-001.ovpn"
-      },
-
-
-{
-         "name": "SG-Speedy-002",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Speedy-002.ovpn"
-      },
-{
-         "name": "SG-Speedy-003",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Speedy-003.ovpn"
-      },
-
-{
-         "name": "SG-Speedy-004",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Speedy-004.ovpn"
-      },
-
-{
-         "name": "SG-Speedy-005",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Speedy-005.ovpn"
-      },
-
-
-{
-         "name": "IN-UNLI-001",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/IN-UNLI-001.ovpn"
-      },
-
-{
-         "name": "IN-Speedy-001",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/IN-Speedy-001.ovpn"
-      },
-
-
-{
          "name": "SG-Micro-001",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-001.ovpn"
       },
 
 
 {
          "name": "SG-Micro-002",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-002.ovpn"
       },
 {
          "name": "SG-Micro-003",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-003.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-003.ovpn"
       },
 
 {
          "name": "SG-Micro-004",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-004.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-004.ovpn"
       },
 
 {
          "name": "SG-Micro-005",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-005.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-005.ovpn"
       },
 
 
 {
          "name": "SG-Micro-006",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-006.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-006.ovpn"
       },
 {
          "name": "SG-Micro-007",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-007.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-007.ovpn"
       },
 
 {
          "name": "SG-Micro-008",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-008.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-008.ovpn"
       },
 
 {
          "name": "SG-Micro-009",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-009.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-009.ovpn"
       },
 
 
 {
          "name": "SG-Micro-010",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-010.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-010.ovpn"
       },
 
 {
          "name": "SG-Micro-011",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-011.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-011.ovpn"
       },
+
 
 {
          "name": "SG-Micro-012",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-012.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-012.ovpn"
       },
 
 
 {
          "name": "SG-Micro-013",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/SG-Micro-013.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-013.ovpn"
       },
 {
          "name": "IN-Micro-001",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/IN-Micro-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-IN-001.ovpn"
       },
 
 {
          "name": "IN-Micro-002",
-         "url": "https://raw.githubusercontent.com/JueHtet/speedy/main/IN-Micro-002.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-IN-002.ovpn"
       }
 
-],
-"message":"Fixed Speedy Servers\n•Version:1\n\n•Owner By: Tyler Alvarez ",
-   "title":"🤍10 December 2021🤍" ,
-   "version": 
+
+  ],
+"message":"Add Microssh Servers\n•Version:1\n\n•Facebook By: JueHtet ",
+   "title":"💙21 December 2021💙" ,
+   "version": 1
 }
