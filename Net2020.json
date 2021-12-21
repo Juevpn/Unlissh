@@ -102,26 +102,26 @@
       },
 
 {
-         "name": "JP-Game-001",
+         "name": "JP-001",
          "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-J-001.ovpn"
       },
 {
-         "name": "JP-Game-002",
+         "name": "JP-002",
          "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-J-002.ovpn"
       },
 
 {
-         "name": "JP-Game-003",
+         "name": "JP-003",
          "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-J-003.ovpn"
       },
 
 {
-         "name": "JP-Game-004",
+         "name": "JP-004",
          "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-J-004.ovpn"
       },
 
 {
-         "name": "JP-Game-005",
+         "name": "JP-005",
          "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-J-005.ovpn"
       },
 
@@ -176,6 +176,16 @@
          "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-T-005.ovpn"
       },
 
+{
+         "name": "NL-001",
+         "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-NL-001.ovpn"
+      },
+
+
+{
+         "name": "NL-002",
+         "url": "https://raw.githubusercontent.com/Juessh/Net2022/main/A-NL-002.ovpn"
+      },
 
 {
          "name": "US-001",
@@ -190,7 +200,8 @@
 
 
  ],
-"message":"TRUE & DTAC90Days\n•Configs Version:6\n•🎄Christmas လက်ဆောင်🎄\n•Update လုပ်ပေးပါ\n\n•Owner By: JueHtet ",
-   "title":"🎄20 December 2021🎄\n•Add TH Servers" ,
-   "version": 6
+"message":"TRUE & DTAC90Days\n•Configs Version:7\n•🎄Christmas လက်ဆောင်🎄\n•Update လုပ်ပေးပါ\n\n•Owner By: JueHtet ",
+   "title":"🎄21 December 2021🎄" ,
+   "info":"မချိတ်တဲ့ဖိုင်အကုန်ပြင်ပီးပါပီး" ,
+   "version": 7
 }
