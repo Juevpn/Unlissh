@@ -27,6 +27,16 @@
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-005.ovpn"
       },
 
+{
+         "name": "TrueMove-Thai-001-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai1.ovpn"
+      },
+
+
+{
+         "name": "TrueMove-Thai-002-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai2.ovpn"
+      },
       
 {
          "name": "Dtac-90DAYS-001-VIP",
@@ -37,6 +47,7 @@
          "name": "Dtac-90DAYS-002-VIP",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-002.ovpn"
       },
+
 
 {
          "name": "Dtac-90DAYS-003-VIP",
@@ -51,6 +62,16 @@
 {
          "name": "Dtac-90DAYS-005-VIP",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-005.ovpn"
+      },
+
+{
+         "name": "Dtac-90DAYS-Thai-001-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai1.ovpn"
+      },
+
+{
+         "name": "Dtac-90DAYS-Thai-002-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai2.ovpn"
       },
 
 {
@@ -76,11 +97,21 @@
 {
          "name": "Dtac-HWork-005-VIP",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-005.ovpn"
+      },
+
+{
+         "name": "Dtac-HWork-Thai-001-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai-H-001.ovpn"
+      },
+
+{
+         "name": "Dtac-HWork-Thai-002-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai-H-002.ovpn"
       }
 
 
    ],
-"message":"19 December 2021\n\n•Version:8\n•40ဘတ်ကိုတစ်လ\n\n•VIP 3ပြန်ပြင်လို့ချိတ်မရတာတောင်းပန်ပါတယ်",
-   "title":"Paid VPN\n•Add Dns in Cert" ,
-   "version": 8
+"message":"22 December 2021\n\n•Version:9\n•40ဘတ်ကိုတစ်လ\n\n•VIP 3ပြန်ပြင်လို့ချိတ်မရတာတောင်းပန်ပါတယ်",
+   "title":"Add Thai Paid Servers" ,
+   "version": 9
 }
