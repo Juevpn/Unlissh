@@ -76,11 +76,42 @@
 {
          "name": "IN-Micro-002",
          "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Micro-IN-002.ovpn"
+      },
+
+{
+         "name": "SG-CORO-OVH-009",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-OVH-09.ovpn"
+      },
+
+
+{
+         "name": "SG-CORO-OVH-010",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-OVH-10.ovpn"
+      },
+{
+         "name": "SG-CORO-OVH-011",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-OVH-11.ovpn"
+      },
+
+{
+         "name": "SG-CORO-DO-005",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-DO-05.ovpn"
+      },
+
+{
+         "name": "SG-CORO-DO-006",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-DO-06.ovpn"
+      },
+
+
+{
+         "name": "SG-CORO-DO-007",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-DO-07.ovpn"
       }
 
 
   ],
-"message":"Fixed Microssh Servers\n•Merry Christmas⛄💙\n•Version:2\n\n•Facebook By: JueHtet ",
-   "title":"💙25 December 2021💙" ,
-   "version": 2
+"message":"Add CORONA Servers\n•Merry Christmas⛄💙\n•Version:3\n\n•Facebook By: JueHtet ",
+   "title":"💙26 December 2021💙" ,
+   "version": 3
 }
