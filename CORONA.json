@@ -126,6 +126,12 @@
       },
 
 {
+         "name": "TH-CORO-Thai-001",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-Thai-01.ovpn"
+      },
+
+
+{
          "name": "SG-Cafe-001",
          "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-001.ovpn"
       },
@@ -158,7 +164,7 @@
 
 
   ],
-"message":"Add Freenet.cafe Servers\n•Merry Christmas⛄💙\n•Version:6\n\n•Facebook By: JueHtet ",
+"message":"Add Thai Servers\n•Merry Christmas⛄💙\n•Version:7\n\n•Facebook By: JueHtet ",
    "title":"💙27 December 2021💙" ,
-   "version": 6
+   "version": 7
 }
