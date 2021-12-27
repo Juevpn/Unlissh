@@ -123,11 +123,42 @@
 {
          "name": "SG-CORO-DO-007",
          "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/Corona-DO-07.ovpn"
+      },
+
+{
+         "name": "SG-Cafe-001",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-001.ovpn"
+      },
+
+
+{
+         "name": "SG-Cafe-002",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-002.ovpn"
+      },
+{
+         "name": "SG-Cafe-003",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-003.ovpn"
+      },
+
+{
+         "name": "SG-Cafe-004",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-004.ovpn"
+      },
+
+{
+         "name": "SG-Cafe-005",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-005.ovpn"
+      },
+
+
+{
+         "name": "SG-Cafe-006",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-006.ovpn"
       }
 
 
   ],
-"message":"Add CORONA Servers\n•Merry Christmas⛄💙\n•Version:4\n\n•Facebook By: JueHtet ",
+"message":"Add Freenet.cafe Servers\n•Merry Christmas⛄💙\n•Version:5\n\n•Facebook By: JueHtet ",
    "title":"💙27 December 2021💙" ,
-   "version": 4
+   "version": 5
 }
