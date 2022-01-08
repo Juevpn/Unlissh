@@ -160,11 +160,26 @@
 {
          "name": "SG-Cafe-006",
          "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/SG-CAFE-006.ovpn"
+      },
+
+{
+         "name": "SG-Speedy-001",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/A-Speedy-001.ovpn"
+      },
+
+
+{
+         "name": "SG-Speedy-002",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/A-Speedy-002.ovpn"
+      },
+{
+         "name": "SG-Speedy-003",
+         "url": "https://raw.githubusercontent.com/Juessh/CORONA/main/A-Speedy-003.ovpn"
       }
 
 
   ],
-"message":"Fresh Micro Servers\n•Happy NewYear⛄💙\n•Version:10\n\n•Facebook By: JueHtet ",
-   "title":"💙7 January 2022💙" ,
-   "version": 10
+"message":"Fresh Micro Servers\n•Happy NewYear⛄💙\n•Version:11\n\n•Facebook By: JueHtet ",
+   "title":"💙8 January 2022💙" ,
+   "version": 11
 }
