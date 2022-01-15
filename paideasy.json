@@ -150,43 +150,39 @@
       },
 
 {
-         "name": "Dtac-HWork-001-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-001.ovpn"
+         "name": "Dtac-NoFree-001-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/D-NoPro-001.ovpn"
       },
 
 {
-         "name": "Dtac-HWork-002-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-002.ovpn"
+         "name": "Dtac-NoFree-002-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/D-NoPro-002.ovpn"
       },
 
 {
-         "name": "Dtac-HWork-003-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-003.ovpn"
+         "name": "Dtac-NoFree-003-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/D-NoPro-003.ovpn"
       },
 
 {
-         "name": "Dtac-HWork-004-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-004.ovpn"
+         "name": "Dtac-NoFree-004-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/D-NoPro-001.ovpn"
       },
 
 {
-         "name": "Dtac-HWork-005-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-H-005.ovpn"
+         "name": "Dtac-NoFree-005-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/D-NoPro-002.ovpn"
       },
 
 {
-         "name": "Dtac-HWork-Thai-001-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai-H-001.ovpn"
-      },
-
-{
-         "name": "Dtac-HWork-Thai-002-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai-H-002.ovpn"
+         "name": "Dtac-NoFree-006-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/D-NoPro-003.ovpn"
       }
 
 
+
    ],
-"message":"15 January 2022\n\n•Version:12\n•40ဘတ်ကိုတစ်လ\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"15 January 2022\n\n•Version:13\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"VIP 1,2,3 New IP" ,
-   "version": 12
+   "version": 13
 }
