@@ -64,18 +64,18 @@
       },
 
 {
-         "name": "TRUE-VIP-001-VIP",
+         "name": "TRUE-VIP-001",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-001.ovpn"
       },
 
 
 {
-         "name": "TRUE-VIP-002-VIP",
+         "name": "TRUE-VIP-002",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-002.ovpn"
       },
 
 {
-         "name": "TRUE-VIP-003-VIP",
+         "name": "TRUE-VIP-003",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-003.ovpn"
       },
 
@@ -176,24 +176,24 @@
       },
 
 {
-         "name": "DTAC-VIP-001-VIP",
+         "name": "DTAC-VIP-001",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-001.ovpn"
       },
 
 {
-         "name": "DTAC-VIP-002-VIP",
+         "name": "DTAC-VIP-002",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-002.ovpn"
       },
 
 {
-         "name": "DTAC-VIP-003-VIP",
+         "name": "DTAC-VIP-003",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-003.ovpn"
       }
 
 
 
    ],
-"message":"2 February 2022\n\n•Version:14\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"2 February 2022\n\n•Version:15\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"VIP 1,2,3 New IP" ,
-   "version": 14
+   "version": 15
 }
