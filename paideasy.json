@@ -63,17 +63,22 @@
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-012.ovpn"
       },
 
-
 {
-         "name": "TrueMove-Thai-001-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai1.ovpn"
+         "name": "TRUE-VIP-001-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-001.ovpn"
       },
 
 
 {
-         "name": "TrueMove-Thai-002-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai2.ovpn"
+         "name": "TRUE-VIP-002-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-002.ovpn"
       },
+
+{
+         "name": "TRUE-VIP-003-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-003.ovpn"
+      },
+
       
 {
          "name": "Dtac-90DAYS-001-VIP",
@@ -139,15 +144,6 @@
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-Paid-012.ovpn"
       },
 
-{
-         "name": "Dtac-90DAYS-Thai-001-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai1.ovpn"
-      },
-
-{
-         "name": "Dtac-90DAYS-Thai-002-VIP",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Thai2.ovpn"
-      },
 
 {
          "name": "Dtac-NoFree-001-VIP",
@@ -177,12 +173,27 @@
 {
          "name": "Dtac-NoFree-006-VIP",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/D-NoPro-003.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-001-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-001.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-002-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-002.ovpn"
+      },
+
+{
+         "name": "DTAC-VIP-003-VIP",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-003.ovpn"
       }
 
 
 
    ],
-"message":"15 January 2022\n\n•Version:13\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"2 February 2022\n\n•Version:14\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"VIP 1,2,3 New IP" ,
-   "version": 13
+   "version": 14
 }
