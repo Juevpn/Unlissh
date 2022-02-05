@@ -68,7 +68,7 @@
 
 {
          "name": "SG-VIP-013",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-013.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-013.ovpn"
       },
 
 {
@@ -79,7 +79,7 @@
 
 
    ],
-"message":"5 February 2022\n\n•Version:3\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"5 February 2022\n\n•Version:4\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"ALl New VIP" ,
-   "version": 3
+   "version": 4
 }
