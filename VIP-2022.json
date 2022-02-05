@@ -15,11 +15,71 @@
 {
          "name": "SG-VIP-003",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-003.ovpn"
+      },
+
+{
+         "name": "SG-VIP-004",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-004.ovpn"
+      },
+
+
+{
+         "name": "SG-VIP-005",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-005.ovpn"
+      },
+
+{
+         "name": "SG-VIP-006",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-006.ovpn"
+      },
+
+{
+         "name": "SG-VIP-007",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-007.ovpn"
+      },
+
+
+{
+         "name": "SG-VIP-008",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-008.ovpn"
+      },
+
+{
+         "name": "SG-VIP-009",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-009.ovpn"
+      },
+
+{
+         "name": "SG-VIP-010",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-010.ovpn"
+      },
+
+
+{
+         "name": "SG-VIP-011",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-011.ovpn"
+      },
+
+{
+         "name": "SG-VIP-012",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-012.ovpn"
+      },
+
+
+{
+         "name": "SG-VIP-013",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIPP-013.ovpn"
+      }
+
+{
+         "name": "TH-VIP-001",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-Thai-001.ovpn"
       }
 
 
+
    ],
-"message":"3 February 2022\n\n•Version:1\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
-   "title":"VIP 1,2,3 New IP" ,
-   "version": 1
+"message":"5 February 2022\n\n•Version:2\n•40ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+   "title":"ALl New VIP" ,
+   "version": 2
 }
