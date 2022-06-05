@@ -42,11 +42,16 @@
 {
          "name": "TH-VIP-005",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Bangkok-005.ovpn"
+      },
+
+{
+         "name": "TH-VIP-008",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/CAT-008.ovpn"
       }
 
 
    ],
-"message":"28 May 2022\n\n•Version:28\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"5 Jun 2022\n\n•Version:29\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"ALl New VIP" ,
-   "version": 28
+   "version": 29
 }
