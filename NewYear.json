@@ -2,133 +2,34 @@
    "files": [    
 
 {
-         "name": "TH-3BB-001",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-001.ovpn"
+         "name": "TH-Cloud-001",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Thai-001.ovpn"
       },
 
 
 {
-         "name": "TH-3BB-002",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-002.ovpn"
+         "name": "TH-Cloud-002",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Thai-002.ovpn"
       },
 {
-         "name": "TH-3BB-003",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-003.ovpn"
-      },
-
-{
-         "name": "TH-3BB-004",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-004.ovpn"
+         "name": "TH-Cloud-003",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Thai-003.ovpn"
       },
 
 {
-         "name": "TH-3BB-005",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-005.ovpn"
-      },
-
-
-{
-         "name": "TH-3BB-006",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-006.ovpn"
-      },
-{
-         "name": "TH-3BB-007",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-007.ovpn"
+         "name": "TH-Cloud-004",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Thai-001.ovpn"
       },
 
 {
-         "name": "TH-3BB-008",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-001.ovpn"
-      },
-
-{
-         "name": "TH-3BB-009",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-002.ovpn"
+         "name": "TH-Cloud-005",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Thai-002.ovpn"
       },
 
 
 {
-         "name": "TH-3BB-010",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-003.ovpn"
-      },
-
-{
-         "name": "TH-3BB-011",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-004.ovpn"
-      },
-
-
-{
-         "name": "TH-3BB-012",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-005.ovpn"
-      },
-
-
-{
-         "name": "TH-3BB-013",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-006.ovpn"
-      },
-{
-         "name": "TH-3BB-014",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-007.ovpn"
-      },
-
-{
-         "name": "TH-3BB-015",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-001.ovpn"
-      },
-
-{
-         "name": "TH-3BB-016",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-002.ovpn"
-      },
-
-
-{
-         "name": "TH-3BB-017",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-003.ovpn"
-      },
-
-
-{
-         "name": "TH-3BB-018",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-004.ovpn"
-      },
-{
-         "name": "TH-3BB-019",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-005.ovpn"
-      },
-
-{
-         "name": "TH-3BB-020",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/A-SG-006.ovpn"
-      },
-
-{
-         "name": "SG-3BB-001",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/Pete-001.ovpn"
-      },
-
-
-{
-         "name": "SG-3BB-002",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/Pete-002.ovpn"
-      },
-
-
-{
-         "name": "SG-3BB-003",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/Pete-001.ovpn"
-      },
-
-{
-         "name": "SG-3BB-004",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/Pete-002.ovpn"
-      },
-
-{
-         "name": "SG-3BB-005",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/Pete-001.ovpn"
+         "name": "TH-Cloud-006",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Thai-003.ovpn"
       },
 
 {
@@ -137,25 +38,57 @@
       },
 
 {
-         "name": "SG-New-001",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/New-Own-001.ovpn"
+         "name": "SG-Cloud-001",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Fake-001.ovpn"
+      },
+
+
+{
+         "name": "SG-Cloud-002",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Fake-002.ovpn"
+      },
+
+
+{
+         "name": "SG-Cloud-003",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-001.ovpn"
       },
 
 {
-         "name": "SG-New-002",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/New-Own-002.ovpn"
+         "name": "SG-Cloud-004",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-002.ovpn"
       },
 
 {
-         "name": "SG-New-003",
-         "url": "https://raw.githubusercontent.com/Juessh/NewYear/main/New-Own-003.ovpn"
+         "name": "SG-Cloud-005",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-003.ovpn"
+      },
+
+{
+         "name": "SG-Cloud-006",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-004.ovpn"
+      },
+
+{
+         "name": "SG-Cloud-007",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-005.ovpn"
+      },
+
+{
+         "name": "SG-Cloud-008",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-006.ovpn"
+      },
+
+{
+         "name": "SG-Cloud-009",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Fake-002.ovpn"
       }
 
 
 
 
   ],
-"message":"ထိုင်းဆာဗာအကုန်အသစ်\n•All Fast Servers\n•Version:28\n\n•Facebook By: JueHtet ",
-   "title":"💙30 May 2022💙" ,
-   "version": 28
+"message":"အကုန်ဖိုင်အသစ်‌ေတွပါ"\n•All Fast Servers\n•Version:29\n\n•Facebook By: JueHtet ",
+   "title":"💙11 June 2022💙" ,
+   "version": 29
 }
