@@ -82,13 +82,32 @@
 {
          "name": "SG-Cloud-009",
          "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Fake-002.ovpn"
+      },
+
+{
+         "name": "HK-Cloud-001",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-007.ovpn"
+      },
+
+{
+         "name": "HK-Cloud-002",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-008.ovpn"
+      },
+
+{
+         "name": "JP-Cloud-001",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Azure-009.ovpn"
+      },
+
+{
+         "name": "JP-Cloud-002",
+         "url": "https://raw.githubusercontent.com/Juessh/NewYear-002/main/Fake-010.ovpn"
       }
 
 
 
-
   ],
-"message":"အကုန်ဖိုင်အသစ်‌ေတွပါ\n•All Fast Servers\n•Version:30\n\n•Facebook By: JueHtet ",
+"message":"အကုန်ဖိုင်အသစ်‌ေတွပါ\n•All Fast Servers\n•Version:31\n\n•Facebook By: JueHtet ",
    "title":"💙11 June 2022💙" ,
-   "version": 30
+   "version": 31
 }
