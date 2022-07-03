@@ -1,36 +1,6 @@
 {
    "files": [    
 
-{
-         "name": "TH-Best-001",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Best-001.ovpn"
-      },
-
-
-{
-         "name": "TH-Best-002",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Best-001.ovpn"
-      },
-{
-         "name": "TH-Best-003",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Best-001.ovpn"
-      },
-
-{
-         "name": "TH-Best-004",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Best-001.ovpn"
-      },
-
-{
-         "name": "TH-Best-005",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Best-001.ovpn"
-      },
-
-
-{
-         "name": "TH-Best-006",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Best-001.ovpn"
-      },
 
 {
          "name": "SG-Best-001",
@@ -71,17 +41,17 @@
 
 {
          "name": "SG-Best-008",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Debian-01.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Bestvpn-SG1.ovpn"
       },
 
 {
          "name": "SG-Best-009",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Debian-02.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Bestvpn-SG1.ovpn"
       },
 
 {
          "name": "SG-Best-010",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Debian-03.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Bestvpn-SG2.ovpn"
       },
 
 {
@@ -112,12 +82,17 @@
 
 {
          "name": "US-Best-001",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Fake-008.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Bestvpn-US1.ovpn"
+      },
+
+{
+         "name": "US-Best-001",
+         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Bestvpn-US2.ovpn"
       }
 
   ],
-"message":"✅New Servers Update✅\n•🚀Fixed All Files🚀\n•Version:2\n\n•Owner By: JueHtet ",
-   "title":"💙26 June 2022💙" ,
-   "version": 2
+"message":"✅New Servers Update✅\n•🚀Fixed All Files🚀\n•Version:3\n\n•Owner By: JueHtet ",
+   "title":"💙3 July 2022💙" ,
+   "version": 3
 }
 
