@@ -3,7 +3,11 @@
 
 {
          "name": "TH-OTP-001",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/TH-001.ovpn"
+         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Ready-001.ovpn"
+      },
+{
+         "name": "TH-OTP-002",
+         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Ready-001.ovpn"
       },
 
 
@@ -83,22 +87,12 @@
 {
          "name": "SG-OTP-015",
          "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/SG-003.ovpn"
-      },
-
-{
-         "name": "US-OTP-001",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Bestvpn-US1.ovpn"
-      },
-
-
-{
-         "name": "US-OTP-002",
-         "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/Bestvpn-US2.ovpn"
       }
 
+
   ],
-"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:5\n\n•Owner By: JueHtet ",
-   "title":"💙17 July 2022💙" ,
-   "version": 5
+"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:6\n\n•Owner By: JueHtet ",
+   "title":"💙18 July 2022💙" ,
+   "version": 6
 }
 
