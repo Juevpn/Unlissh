@@ -19,14 +19,19 @@
 {
          "name": "TH-VIP-004",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/THAI-VIP-002.ovpn"
+      },
+
+{
+         "name": "TH-VIP-005",
+         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/Sorry-001.ovpn"
       }
 
 
 
    ],
-"message":"16 July 2022\n\n•Version:2\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : Sorry\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"25 July 2022\n\n•Version:3\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : Sorry\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"✅Add New VIP✅" ,
-   "version": 2
+   "version": 3
 }
 
 
