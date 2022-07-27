@@ -51,14 +51,44 @@
 {
          "name": "TH-OTP-010",
          "url": "https://raw.githubusercontent.com/Juessh/OTP-VPN/main/OTP-005.ovpn"
+      },
+
+{
+         "name": "SG-OTP-001",
+         "url": "https://raw.githubusercontent.com/Juessh/PDF-Files/main/PDF-001.ovpn"
+      },
+
+{
+         "name": "SG-OTP-002",
+         "url": "https://raw.githubusercontent.com/Juessh/PDF-Files/main/PDF-002.ovpn"
+      },
+
+{
+         "name": "SG-OTP-003",
+         "url": "https://raw.githubusercontent.com/Juessh/PDF-Files/main/PDF-003.ovpn"
+      },
+
+{
+         "name": "SG-OTP-004",
+         "url": "https://raw.githubusercontent.com/Juessh/PDF-Files/main/PDF-004.ovpn"
+      },
+
+{
+         "name": "SG-OTP-005",
+         "url": "https://raw.githubusercontent.com/Juessh/PDF-Files/main/PDF-005.ovpn"
+      },
+
+{
+         "name": "SG-OTP-006",
+         "url": "https://raw.githubusercontent.com/Juessh/PDF-Files/main/PDF-006.ovpn"
       }
 
 
 
 
   ],
-"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:8\n\n•Owner By: JueHtet\n\n✅Fixed SG-001✅ ",
-   "title":"💙26 July 2022💙" ,
-   "version": 8
+"message":"✅New Servers Update✅\n•🚀Add All New Servers🚀\n•Version:9\n\n•Owner By: JueHtet\n\n✅Fixed SG-001✅\n\n✅🎮100% Gaming VPN🎮✅ ",
+   "title":"💙27 July 2022💙" ,
+   "version": 9
 }
 
