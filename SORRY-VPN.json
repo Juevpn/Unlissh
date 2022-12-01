@@ -1,6 +1,12 @@
 {
    "files": [    
 
+{
+         "name": "SG-VIP-001",
+         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/SG-002.ovpn"
+      },
+
+
 
 {
          "name": "TH-VIP-001",
@@ -29,9 +35,9 @@
 
 
    ],
-"message":"19 September 2022\n\n•Version:7\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : Sorry\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+"message":"1 December 2022\n\n•Version:7\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : Sorry\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
    "title":"✅Add New VIP✅" ,
-   "version": 7
+   "version": 8
 }
 
 
