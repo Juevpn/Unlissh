@@ -1,112 +1,124 @@
 {
    "files": [    
 
-{
-         "name": "SG-VIP-001",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-VIP-001.ovpn"
-      },
-
 
 {
-         "name": "SG-VIP-002",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/SG-VIP-002.ovpn"
-      },
-
-
-{
-         "name": "TH-VIP-001",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/VIP-V2-007.ovpn"
+         "name": "SG-001",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-001.ovpn"
       },
 
 {
-         "name": "TH-VIP-002",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/THAI-VIP-002.ovpn"
+         "name": "SG-002",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-002.ovpn"
       },
 
 {
-         "name": "TH-VIP-003",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/CAT-001.ovpn"
-      },
-
-
-{
-         "name": "TH-VIP-004",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/TH-VIP-004.ovpn"
+         "name": "SG-003",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-003.ovpn"
       },
 
 {
-         "name": "TH-VIP-005",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Bangkok-005.ovpn"
+         "name": "SG-004",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-004.ovpn"
       },
 
 {
-         "name": "TH-VIP-006",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/3BB-010.ovpn"
+         "name": "TH-001",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-001.ovpn"
       },
 
 {
-         "name": "TH-VIP-007",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/TH-007.ovpn"
+         "name": "TH-002",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-002.ovpn"
       },
 
 {
-         "name": "TH-VIP-008",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Paidoo-002.ovpn"
+         "name": "TH-003",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-003.ovpn"
       },
 
 {
-         "name": "TH-VIP-009",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/3BB-009.ovpn"
+         "name": "TH-004",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-004.ovpn"
       },
 
 {
-         "name": "TH-VIP-010",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Mcloud.ovpn"
+         "name": "TH-005",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-005.ovpn"
       },
 
 {
-         "name": "TH-VIP-011",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Ready-VIP1.ovpn"
+         "name": "TH-006",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-006.ovpn"
       },
 
 {
-         "name": "TH-VIP-012",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Ready-VIP2.ovpn"
+         "name": "TH-007",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-007.ovpn"
       },
 
 {
-         "name": "TH-VIP-013",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Ready-VIP3.ovpn"
-      },
-
-{
-         "name": "TH-VIP-014",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Ready-VIP4.ovpn"
-      },
-
-{
-         "name": "TH-VIP-015",
-         "url": "https://raw.githubusercontent.com/Juessh/AungKoZin/main/SORRY-VIP-001.ovpn"
-      },
-
-{
-         "name": "TH-VIP-016",
-         "url": "https://raw.githubusercontent.com/Juessh/VIP-Configs/main/Ready-VIP5.ovpn"
-      },
-{
-         "name": "TH-VIP-017",
+         "name": "TH-008",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-008.ovpn"
       },
 
 {
-         "name": "TH-VIP-018",
+         "name": "TH-009",
          "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/VIP-V2-009.ovpn"
+      },
+
+{
+         "name": "TH-010",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-010.ovpn"
+      },
+
+{
+         "name": "TH-011",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-011.ovpn"
+      },
+
+{
+         "name": "TH-013",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-013.ovpn"
+      },
+
+{
+         "name": "TH-014",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-014.ovpn"
+      },
+
+{
+         "name": "TH-015",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-015.ovpn"
+      },
+
+{
+         "name": "TH-016",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-016.ovpn"
+      },
+
+{
+         "name": "SG-FREE-001",
+         "url": "https://juestore.000webhostapp.com/SG-FREE-001.ovpn"
+      },
+
+{
+         "name": "SG-FREE-002",
+         "url": "https://juestore.000webhostapp.com/SG-FREE-002.ovpn"
+      },
+
+{
+         "name": "TH-FREE-001",
+         "url": "https://raw.githubusercontent.com/Juessh/VIP-V2/main/TH-FREE-001.ovpn"
       }
 
 
+
    ],
-"message":"20 September 2022\n\n•Version:22\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : JueHtet\n\n•🎮Game 100%🎮\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
-   "title":"✅Add New VIP IP✅" ,
-   "version": 22
+"message":"18 December 2022\n\n•Version:23\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
+   "title":"✅Fixed All Servers✅" ,
+   "version": 23
 }
+
+
 
