@@ -2,36 +2,32 @@
    "files": [    
 
 {
-         "name": "SG-VIP-001",
-         "url": "https://juestore.000webhostapp.com/SG-002.ovpn"
+         "name": "SG-FREE-001",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-FREE-001.ovpn"
       },
-
 
 
 {
          "name": "TH-VIP-001",
-         "url": "https://juestore.000webhostapp.com/Sorry-001.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/Sorry-VIP/main/Sorry-VIP-001.ovpn"
       },
 
 {
          "name": "TH-VIP-002",
-         "url": "https://juestore.000webhostapp.com/Sorry-002.ovpn"
+         "url": "https://raw.githubusercontent.com/GamerVPN/Sorry-VIP/main/Sorry-VIP-002.ovpn"
       },
 
 {
-         "name": "SG-FREE-001",
-         "url": "https://juestore.000webhostapp.com/SG-FREE-001.ovpn"
-      },
-{
-         "name": "SG-FREE-002",
-         "url": "https://juestore.000webhostapp.com/SG-FREE-002.ovpn"
+         "name": "TH-VIP-003",
+         "url": "https://raw.githubusercontent.com/GamerVPN/Sorry-VIP/main/Sorry-VIP-003.ovpn"
       }
 
 
+
    ],
-"message":"2 December 2022\n\n•Version:10\n•50ဘတ်ကိုတစ်လ\n\n•Add DTAC NoFree\n•Facebook : Sorry\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
-   "title":"✅Add New VIP✅" ,
-   "version": 10
+"message":"28 December 2022\n\n•Version:11\n•50ဘတ်ကိုတစ်လ\n\n•♻️ Fix SG-FREE ♻️\n•Facebook : Sorry\n\n•၀ယ်ယူအားပေးမှုအတွက်ကျေးဇူးပါ",
+   "title":"✅Add TH-VIP-003✅" ,
+   "version": 11
 }
 
 
