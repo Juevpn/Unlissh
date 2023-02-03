@@ -123,26 +123,21 @@
       },
 
 {
-         "name": "SG-FREE-001",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-FREE-001.ovpn"
-      },
-
-{
-         "name": "SG-FREE-002",
-         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/SG-FREE-002.ovpn"
-      },
-
-{
          "name": "TH-FREE-001",
          "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-FREE-001.ovpn"
+      },
+
+{
+         "name": "TH-FREE-002",
+         "url": "https://raw.githubusercontent.com/GamerVPN/VIP-VPN/main/TH-FREE-002.ovpn"
       }
 
 
 
    ],
-"message":"30 January 2023\n\n•Version:29\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
+"message":"3 February 2023\n\n•Version:30\n\n•✅Add 2 VIP IP✅\n\n📢By : JueHtet📢",
    "title":"🎄New Game VPS🎄" ,
-   "version": 29
+   "version": 30
 }
 
 
